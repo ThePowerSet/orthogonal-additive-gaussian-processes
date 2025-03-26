@@ -5,9 +5,9 @@
 This markdown summarizes the steps taken to make the repository work on a Mac silicon, along with the issues encountered and how they were fixed.
 
 ---
+- python --version : Python 3.8.10
 
 ## ✅ What Was Done
-
 - Installed the required packages for Mac M1 GPU support:
   - `tensorflow-macos`
   - `tensorflow-metal`
